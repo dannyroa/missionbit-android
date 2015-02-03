@@ -4,3 +4,9 @@
 Download Android Studio:
 
 http://developer.android.com/sdk/index.html
+
+
+Session 1 - February 2, 2015
+
+https://docs.google.com/presentation/d/1rXy_1Q1tweqOYnNSWNEoNEfUkf7bKYizc_XsFNTFA4w/edit?usp=sharing
+
