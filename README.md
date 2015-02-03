@@ -14,3 +14,10 @@ https://docs.google.com/presentation/d/1rXy_1Q1tweqOYnNSWNEoNEfUkf7bKYizc_XsFNTF
 API Dashboard:
 
 http://developer.android.com/about/dashboards/index.html
+
+JDK Location:
+
+/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home
+
+
+
