@@ -1,5 +1,9 @@
 # missionbit-android
 
+Attendance:
+
+https://docs.google.com/a/missionbit.com/forms/d/1lXHnL7jiKNVRX3l85XUdGq4I0THhhL9Lgc7mSV-DWiQ/viewform
+
 
 Download Android Studio:
 
