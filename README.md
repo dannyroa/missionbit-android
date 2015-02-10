@@ -1,5 +1,11 @@
 # missionbit-android
 
+Week 2, Monday Class
+
+Attendance
+
+http://goo.gl/forms/5L5Uf7LSlv
+
 
 Week 1, Wednesday Class
 
