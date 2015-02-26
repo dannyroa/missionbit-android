@@ -5,6 +5,8 @@ Picasso Dependency, add in build.gradle:
 
 compile 'com.squareup.picasso:picasso:2.5.0'
 
+Or download jar: http://repo1.maven.org/maven2/com/squareup/picasso/picasso/2.5.0/picasso-2.5.0.jar
+
 
 
 Week 2, Monday Class
