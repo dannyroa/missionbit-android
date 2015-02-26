@@ -1,5 +1,12 @@
 # missionbit-android
 
+
+Picasso Dependency, add in build.gradle:
+
+compile 'com.squareup.picasso:picasso:2.5.0'
+
+
+
 Week 2, Monday Class
 
 Attendance
